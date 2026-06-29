@@ -3,3 +3,4 @@ __pycache__/
 *.pyo
 .venv/
 game_state.jsonl
+game_events.jsonl
